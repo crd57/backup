@@ -4,26 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/mofan/logistic.py" description="from sklearn.cross_validation import train_test_sp..." line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="045a2003-150f-41ac-96f4-58ca3c499c3b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/crd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/array_2D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/array_3D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/array_disorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mofan/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mofan/cnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mofan/logistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mofan/sklearn_svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/lvbo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+    <list default="true" id="045a2003-150f-41ac-96f4-58ca3c499c3b" name="Default" comment="back up">
+      <change afterPath="$PROJECT_DIR$/homework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/shiyan1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/crd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/crd.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN_indian.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN_indian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/array_3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/array_3D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git上传.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git上传.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/.idea/dictionaries/wgj2018.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/dictionaries/wgj2018.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/.idea/dictionaries/wgj2018.xml___jb_old___" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/dictionaries/wgj2018.xml___jb_old___" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/ANN_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ANN_prediction.py" afterDir="false" />
@@ -60,8 +48,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/project$keras_bp_prediction.coverage" NAME="keras_bp_prediction Coverage Results" MODIFIED="1521292415468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1522638224935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mofan" />
+    <SUITE FILE_PATH="coverage/project$keras_bp_prediction.coverage" NAME="keras_bp_prediction Coverage Results" MODIFIED="1521292415468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -69,9 +57,11 @@
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
     <expand />
     <select />
   </component>
@@ -80,32 +70,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="array_disorder.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fundamentals/array_disorder.py">
+      <file leaf-file-name="weather.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="470">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_3D.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fundamentals/array_3D.py">
+      <file leaf-file-name="shiyan1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework/shiyan1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="173">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_2D.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fundamentals/array_2D.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="arrays.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fundamentals/arrays.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -164,6 +144,8 @@
         <option value="$PROJECT_DIR$/Fundamentals/arry_3D.py" />
         <option value="$PROJECT_DIR$/Fundamentals/arry_2D.py" />
         <option value="$PROJECT_DIR$/Fundamentals/array_3D.py" />
+        <option value="$PROJECT_DIR$/weather.py" />
+        <option value="$PROJECT_DIR$/homework/shiyan1.py" />
       </list>
     </option>
   </component>
@@ -193,12 +175,7 @@
           <expand>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-mining" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.array_3D">
+  <component name="RunManager" selected="Python.shiyan1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,25 +330,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="logistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mofan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mofan/logistic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="lstm" type="PythonConfigurationType" factoryName="Python">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -391,7 +349,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shiyan1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,12 +357,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/shiyan1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -448,25 +406,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="weather" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.svm_predict (1)" />
       <item itemvalue="Python.liner" />
       <item itemvalue="Python.lstm" />
-      <item itemvalue="Python.new" />
-      <item itemvalue="Python.logistic" />
-      <item itemvalue="Python.sklearn_svm" />
       <item itemvalue="Python.arrays" />
       <item itemvalue="Python.arry_2D" />
+      <item itemvalue="Python.sklearn_svm" />
       <item itemvalue="Python.array_disorder" />
       <item itemvalue="Python.array_3D" />
+      <item itemvalue="Python.weather" />
+      <item itemvalue="Python.shiyan1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shiyan1" />
+        <item itemvalue="Python.weather" />
         <item itemvalue="Python.array_3D" />
         <item itemvalue="Python.array_disorder" />
         <item itemvalue="Python.sklearn_svm" />
-        <item itemvalue="Python.logistic" />
-        <item itemvalue="Python.new" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +458,14 @@
       <option name="presentableId" value="Default" />
       <updated>1517635132433</updated>
     </task>
+    <task id="LOCAL-00001" summary="back up">
+      <created>1523104492797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523104492797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -496,29 +481,29 @@
     <frame x="48" y="-11" width="1319" height="780" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.50214595" side_tool="true" weight="0.32915717" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.509608" side_tool="true" weight="0.31988043" />
-      <window_info anchor="right" x="0" y="0" width="279" height="580" id="Documentation" order="5" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.4392157" side_tool="true" weight="0.32662538" />
+      <window_info anchor="right" x="0" y="0" width="279" height="580" id="Documentation" order="6" sideWeight="0.5011494" side_tool="true" weight="0.23764706" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49785408" weight="0.32817337" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.490392" weight="0.32972136" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.48766094" visible="true" weight="0.32662538" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.56078434" visible="true" weight="0.27089784" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.23302469" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49078342" visible="true" weight="0.21176471" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49078342" visible="true" weight="0.21490195" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32972136" />
-      <window_info anchor="right" id="Database" order="4" weight="0.28218883" />
-      <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.44235295" />
+      <window_info anchor="right" id="Database" order="4" weight="0.28156862" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49885058" visible="true" weight="0.23764706" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.24941176" />
       <window_info id="Favorites" order="2" sideWeight="0.5092166" side_tool="true" weight="0.16389728" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.39814815" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32972136" />
+      <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,12 +538,30 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="back up" />
+    <option name="LAST_COMMIT_MESSAGE" value="back up" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Fundamentals/array_disorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/array_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/random_walk.py" />
     <entry file="file://$PROJECT_DIR$/die_visual.svg" />
     <entry file="file://D:/time_seires_prediction_using_lstm-master/dataset_merging.py" />
@@ -600,9 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mofan/logistic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -635,70 +635,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#149#159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/arrays/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/2D-arry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/arry-2D.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/arrays/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Fundamentals/2D-arry.py" />
     <entry file="file://$PROJECT_DIR$/mofan/sklearn_svm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#157#175#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/arry_3D.py">
+    <entry file="file://$PROJECT_DIR$/Fundamentals/arry_3D.py" />
+    <entry file="file://$PROJECT_DIR$/Fundamentals/arry_2D.py" />
+    <entry file="file://$PROJECT_DIR$/Fundamentals/array_3D.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/arry_2D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="378">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Fundamentals/array_disorder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/array_2D.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/arrays.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fundamentals/array_3D.py">
+    <entry file="file://$PROJECT_DIR$/weather.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="470">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/shiyan1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
